@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 I'm a Middle Java Developer and I live in Basel, Switzerland. 🇨🇭
 
 BIO
-🏢 I am currently looking for a job.
-⚙️ I develop applications in Java every day.
-💅 I am engaged in the creation of desktop applications, bots for all social networks and add-ons for Minecraft games. 
-    ->  Always ready to take on something new!
-🌱Learning all about Java / WebDev.
-💬 Write to me about application development / bots / plugins / and everything related to Java.
-📫 Reach me: t.me/DarkPhantom1337, instagram.com/dark.phantom1337/, dark.phantom.1337.ch@gmail.com
-a
-SKILLS
-Java JavaScript C++ PHP HTML5 CSS 
-
-Git GitHub GitLab
+\n🏢 I am currently looking for a job.
+\n⚙️ I develop applications in Java every day.
+\n💅 I am engaged in the creation of desktop applications, bots for all social networks and add-ons for Minecraft games. 
+\n    ->  Always ready to take on something new!
+\n🌱Learning all about Java / WebDev.
+\n💬 Write to me about application development / bots / plugins / and everything related to Java.
+\n📫 Reach me: t.me/DarkPhantom1337, instagram.com/dark.phantom1337/, dark.phantom.1337.ch@gmail.com
+\n
+\nSKILLS
+\nJava JavaScript C++ PHP HTML5 CSS 
+\n
+\nGit GitHub GitLab
