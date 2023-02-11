@@ -28,9 +28,9 @@ BIO
 <br /> 
 <br /> SKILLS <br />
 <br /> 
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=java" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=java" style="max-width: 100%;"></a>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" data-canonical-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="С++" data-canonical-src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
