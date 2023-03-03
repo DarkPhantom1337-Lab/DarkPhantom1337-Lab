@@ -24,7 +24,7 @@ BIO
 <br />     ->  Always ready to take on something new!
 <br /> 🌱Learning all about Java / WebDev.
 <br /> 💬 Write to me about application development / bots / plugins / and everything related to Java.
-<br /> 📫 Reach me: t.me/DarkPhantom1337, instagram.com/dark.phantom1337/, dark.phantom.1337.ch@gmail.com
+<br /> 📫 Reach me: t.me/vlpl1337, instagram.com/vlpl.tech/, dark.phantom.1337.ch@gmail.com
 <br /> 
 <br /> SKILLS <br />
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=java" style="max-width: 100%;"></a>
